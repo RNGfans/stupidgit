@@ -1,0 +1,58 @@
+#box{
+    width:90%;
+    margin:0 auto;
+}
+#a{
+    font-size:18px;
+    position:absolute;
+    left:5%;
+}
+#stupid{
+    height:40px;
+    display:inline-block;
+}
+#topright{
+    position:absolute;
+    top:0px;
+    right:5%;
+}
+#sousuo{display:inline-block;
+        border:1px solid#CCC;
+}   
+input[value]{
+        font-size:15px;
+        color:#CCC;
+        font-family:"宋体"; 
+}
+#picture1{
+    text-align:center;
+}
+#picture2{
+    text-align:center;
+}
+#bottom1{
+    background-color:#CCC;
+    text-align:center; 
+}
+.inline1{
+    display:inline-block;
+    text-align:left;
+    vertical-align:top;
+}
+.inline2{
+    display:inline-block;
+    text-align:left;
+}
+.inline3{
+    display:inline-block;
+    vertical-align:top;
+    margin:40px;
+    font-size:12px;
+    text-align:left;
+    line-height:2.5em;
+}
+span{
+    font-size:12px;
+    position: absolute;
+    right:0;
+}
